@@ -1,20 +1,121 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="165" height="110">
-  <rect fill="#ffffff" width="165" height="110" />
-  <rect fill="#bd3d44" width="165" height="10" />
-  <rect fill="#bd3d44" width="165" height="10" y="20" />
-  <rect fill="#bd3d44" width="165" height="10" y="40" />
-  <rect fill="#bd3d44" width="165" height="10" y="60" />
-  <rect fill="#bd3d44" width="165" height="10" y="80" />
-  <rect fill="#bd3d44" width="165" height="10" y="100" />
-  <rect fill="#192f5d" width="50" height="50" />
-  <polygon
-     sodipodi:type="star"
-     fill="#ffffff"
-     sodipodi:sides="5"
-     points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-     sodipodi:r1="4"
-     sodipodi:r2="1.5293919"
-     transform="matrix(4.1417556,0,0,4.1417556,24.99993,26.583591)"
-     d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 -2.3534933,3.2393034 -1.4545381,0.47260809 -3.8080301,-1.2373053 -0.898954,-1.237304 1.3084868e-6,-4.0040002 z"/>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="420"
+   height="280"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="liberia.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="714"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="271.62692"
+     inkscape:cy="147.92489"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs28">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 140 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="560 : 140 : 1"
+       inkscape:persp3d-origin="280 : 93.333333 : 1"
+       id="perspective20" />
+  </defs>
+  <rect
+     width="420"
+     height="280"
+     x="0"
+     y="0"
+     id="rect4"
+     style="fill:#bf0a30;fill-opacity:1" />
+  <rect
+     width="420"
+     height="25"
+     x="0"
+     y="20"
+     id="white"
+     style="fill:#ffffff;fill-opacity:1" />
+  <use
+     id="use9"
+     x="0"
+     y="80"
+     width="560"
+     height="280"
+     xlink:href="#white"
+     transform="translate(0,-30)" />
+  <use
+     id="use11"
+     x="0"
+     y="160"
+     width="560"
+     height="280"
+     xlink:href="#white"
+     style="fill:#bf0a30;fill-opacity:1"
+     transform="translate(0,-60.292893)" />
+  <rect
+     width="132"
+     height="120"
+     x="0"
+     y="0"
+     id="rect9"
+     style="fill:#002868;fill-opacity:1" />
+  <path
+     d="m 78.756161,67.078857 9.07524,26.790136 -22.877162,-16.86094 -22.8771,16.86094 9.453368,-26.790136 -23.444308,-16.298896 28.549149,0.374687 8.318891,-26.977465 8.318988,27.164794 28.738203,-0.562016 -23.255269,16.298896 z"
+     id="path11"
+     style="fill:#ffffff"
+     inkscape:connector-curvature="0" />
+  <use
+     id="use11-4"
+     x="0"
+     y="160"
+     width="560"
+     height="280"
+     xlink:href="#white"
+     style="fill:#bf0a30;fill-opacity:1"
+     transform="translate(0,-3.7167754)" />
+  <use
+     id="use11-0"
+     x="0"
+     y="160"
+     width="560"
+     height="280"
+     xlink:href="#white"
+     style="fill:#bf0a30;fill-opacity:1"
+     transform="translate(0,51.437554)" />
 </svg>
