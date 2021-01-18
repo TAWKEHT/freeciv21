@@ -1,0 +1,59 @@
+[nation_lesotho]
+
+name=_("Lesotho")
+plural=_("?plural:Lesotho")
+groups="Modern", "African"
+legend=_("The Lesotho are a Basuto people of southern Africa. \
+ The country is completely surrounded by the state of South Africa.\
+Independence proclaimed in 1966")
+
+leaders = {
+ "name",                "sex"
+ "Moshoeshoe I",           "Male" ; the leader of the soto (basuto) people 
+ "Letsie III",       "Male" ; king of lesotho
+ "Lerotholi David Seeiso",         "Male" ; crown prince
+}
+
+flag="lesotho"
+flag_alt = "-"
+style = "Tropical"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+civilwar_nations = "Swazi", "South African", "Zulu", "English"
+
+; Cities, ropoga:
+cities =
+ "Maseru",	; (1869, capital)
+ "Hlotse",
+ "Teyateyaneng",
+ "Mafeteng",
+ "Mohale's Hoek",
+ "Thaba-Tseka",
+ "Quthing",
+ "Butha-Buthe",
+ "Mokhotlong",
+ "Qacha’s Nek",
+ "Les City 11",
+ "Les City 12",
+ "Les City 13",
+ "Les City 14",
+ "Les City 15",
+ "Les City 16",
+ "Les City 17",
+ "Les City 18",
+ "Les City 19",
+ "Les City 20",
+ "Les City 21",
+ "Les City 22",
+ "Les City 23",
+ "Les City 24",
+ "Les City 25",
+ "Les City 26",
+ "Les City 27",
+ "Les City 28",
+ "Les City 29",
+ "Les City 30",
+ "Les City 31"
