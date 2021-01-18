@@ -1,0 +1,70 @@
+[nation_sierraleone]
+
+name=_("Sierra Leone")
+plural=_("?plural:Sierra Leones")
+groups="African","Modern" 
+legend=_("State in West Africa, on the Atlantic coast. \
+ In 1961, the country declared its independence.")
+
+leaders = {
+ "name",                "sex"
+ "Milton Augustus Strieby Margai",           "Male" ; 1961-64 
+ "Andrew Juxon-Smith",       "Male" ; 1967-68
+ "Siaka Stevens",       "Male" ; 1968—85
+ "Joseph Saidu Momoh",       "Male" ; 1985—92
+ "Foday Sanko",       "Male" ; civil war 1991-2002
+ "Valentine Strasser",       "Male" ; 1992—96
+ "Johnny Paul Koroma",       "Male" ; 1997-98
+ "Ahmad Tejan Kabbah",       "Male" ; 1996-2007
+ "Ernest Bai Koroma",       "Male" ; 2007-2018
+ "Julius Maada Bio",       "Male" ; 2018-~
+}
+
+ruler_titles = {
+ "government",      "male_title",      "female_title"
+ "Monarchy",  _("Leon %s"),      _("Leona %s")
+}
+
+flag="sierra_leone"
+flag_alt = "-"
+style = "Tropical"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+civilwar_nations = "Liberian", "Malian"
+
+; Cities, ropoga:
+cities =
+ "Freetown",	; (1792, capital)
+ "Bo",
+ "Makeni",
+ "Kenema",
+ "Port Loko",
+ "Zimmi",
+ "Kabala",
+ "Lunsar",
+ "Njaiama",
+ "Lungi",
+ "Koidu",
+ "Bonte",
+ "Shenge",
+ "Sherbo",
+ "Sulima",
+ "Turtles",
+ "Bananas",
+ "Waterloo",
+ "Gandonhun",
+ "Segabwema",
+ "Pandebu-Tokpornbu",
+ "Bumpe",
+ "Kalhun",
+ "Rokupr",
+ "Alikalia",
+ "Bindi",
+ "Tefeya",
+ "Peyima",
+ "Barma",
+ "Pujehun",
+ "Sie City 31"
