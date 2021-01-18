@@ -1,0 +1,70 @@
+[nation_liberian]
+
+name=_("Liberian")
+plural=_("?plural:Liberians")
+groups="Modern", "African" 
+legend=_("Founded in 1847 as the residence of\
+ freed slaves from the US. Liberia is the poorest country in\
+ West Africa and the third largest country in the world.\
+ In addition, Liberia has an unemployment rate of 85% of\
+ the population. Literacy - 73% men, 41% women (2003).")
+
+leaders = {
+ "name",                "sex"
+ "William Richard Tolbert",           "Male" ; 1971-80 
+ "Samuel Kanyon Doe",       "Male" ; 1980-90
+ "Charles McArthur Ghankay Taylor",       "Male" ; 1997—2003
+ "Ellen Johnson-Sirleaf",       "Female" ; 2006-18
+ "George Oppong Ousman Weah",       "Male" ; from 2018, footballer
+}
+
+ruler_titles = {
+ "government",      "male_title",      "female_title"
+ "Despotism",  _("Freeman %s"),      _("Freewoman %s")
+ "Monarchy",  _("Blackking %s"),      _("Blackqueen %s")
+ "Democracy",  _("Free Negro %s"),      _("Free Negrossa %s")
+}
+
+flag="liberia"
+flag_alt = "-"
+style = "Tropical"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+civilwar_nations = "Songhai",  "American",  "Malian", "Sierra Leone"
+
+; Cities, ropoga:
+cities =
+ "Monrovia",	; (1822, capital)
+ "Bensonville",
+ "Gbarnga",
+ "Sanniquellie",
+ "Buchananus",
+ "Edina",
+ "Kakata",
+ "Voinjama",
+ "Harper",
+ "Tapeta",
+ "Robertsport",
+ "Zwedru",
+ "Greenville",
+ "Bopulu",
+ "Tubmanburg",
+ "Fish Town",
+ "River Cess",
+ "Barclayville",
+ "Freenegroville",
+ "Kolahun",
+ "Kle",
+ "Suakoko",
+ "Debil",
+ "Poabli",
+ "Foya",
+ "Belefuanai",
+ "Zekera",
+ "Kpeaple",
+ "Palala",
+ "Zienzu",
+ "Liberty City 31"
