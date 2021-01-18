@@ -1,0 +1,57 @@
+[nation_djiboutian]
+
+name=_("Djiboutian")
+plural=_("?plural:Djiboutians")
+groups="Modern", "African"
+legend=_("State in East, in the Horn of Africa. \
+ Independence in 1977.")
+
+leaders = {
+ "name",                "sex"
+ "Hassan Gouled Aptidon",           "Male" ; first president 
+ "Ismail Omar Guelleh",       "Male" ; second president from 1999
+}
+
+flag="djibouti"
+flag_alt = "-"
+style = "babylonian"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+civilwar_nations = "Ethiopian", "Eritrean", "Somali"
+
+; Cities, ropoga:
+cities =
+ "Djibouti",	; (1883, capital)
+ "Dikhil",
+ "Ali Sabieh",
+ "Tadjoura",
+ "Arta",
+ "Obok",
+ "Alaili Dadda",
+ "Balhe",
+ "Dorra",
+ "Yoboki",
+ "Dji City 11",
+ "Dji City 12",
+ "Dji City 13",
+ "Dji City 14",
+ "Dji City 15",
+ "Dji City 16",
+ "Dji City 17",
+ "Dji City 18",
+ "Dji City 19",
+ "Dji City 20",
+ "Dji City 21",
+ "Dji City 22",
+ "Dji City 23",
+ "Dji City 24",
+ "Dji City 25",
+ "Dji City 26",
+ "Dji City 27",
+ "Dji City 28",
+ "Dji City 29",
+ "Dji City 30",
+ "Dji City 31"
