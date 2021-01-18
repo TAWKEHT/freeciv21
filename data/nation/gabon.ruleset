@@ -1,0 +1,60 @@
+[nation_gabonese]
+
+name=_("Gabonese")
+plural=_("?plural:Gabonese")
+groups="African", "Modern"
+legend=_("State in Central Africa, former colony of France. \
+ The first inhabitants of the country were pygmies.\
+Gabon gained independence in 1960.")
+
+leaders = {
+ "name",                "sex"
+ "Leon Mba",           "Male" ; first president 
+ "Omar Bongo",       "Male" ; second president 1967-2009
+ "Ali Bongo Ondimba",         "Male" ; todays president
+ "Jean Ping",       "Male" ; minister, oppositionist
+}
+
+flag="gabon"
+flag_alt = "-"
+style = "Tropical"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+civilwar_nations = "Kongo", "Cameroonian", "French", "pygmy"
+
+; Cities, ropoga:
+cities =
+ "Libreville",	; (1849, capital)
+ "Port-Gentil",
+ "Franceville",
+ "Oyem",
+ "Mouila",
+ "Lambarene",
+ "Koulamoutou",
+ "Makokou",
+ "Tchibanga",
+ "Pygmyville",
+ "Gab City 11",
+ "Gab City 12",
+ "Gab City 13",
+ "Gab City 14",
+ "Gab City 15",
+ "Gab City 16",
+ "Gab City 17",
+ "Gab City 18",
+ "Gab City 19",
+ "Gab City 20",
+ "Gab City 21",
+ "Gab City 22",
+ "Gab City 23",
+ "Gab City 24",
+ "Gab City 25",
+ "Gab City 26",
+ "Gab City 27",
+ "Gab City 28",
+ "Gab City 29",
+ "Gab City 30",
+ "Gab City 31"
