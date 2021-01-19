@@ -4,16 +4,16 @@ name=_("Djiboutian")
 plural=_("?plural:Djiboutians")
 groups="Modern", "African"
 legend=_("Djibouti is one of the smallest countries of Africa, located on\
- the Gulf of Aden. It has been independent from France since 1977.\
+ the Gulf of Aden, in the Horn of Africa. It has been independent from France since 1977.\
  Djibouti's main ethnic groups are the Afar and the Somalis. The country\
  has one of the hottest climates in the world.")
 
 leaders = {
  "name",                  "sex"
- "Léonce Lagarde",        "Male"
- "Hassan Gouled Aptidon", "Male"
+ "Leonce Lagarde",        "Male"
+ "Hassan Gouled Aptidon", "Male" ; first president
  "Ahmed Dini Ahmed",      "Male"
- "Ismail Omar Guelleh",   "Male"
+ "Ismail Omar Guelleh",   "Male" ; second president from 1999
 }
 
 ruler_titles = {
@@ -28,10 +28,11 @@ style = "Babylonian"
 init_techs=""
 init_buildings=""
 init_units=""
-civilwar_nations = "eritrean", "somali"
+civilwar_nations = "Eritrean", "Somali", "Ethiopian"
 
+; Cities, ropoga:
 cities =
- "Djibouti",
+ "Djibouti",	; (1883, capital)
  "Tadjoura",
  "Ali Sabieh",
  "Dikhil",
@@ -41,7 +42,7 @@ cities =
  "Balho",
  "Dorra",
  "Randa",
- "Yobocki",
+ "Yoboki",
  "Alaili Dadda",
  "Holhol",
  "Oueah",
@@ -59,5 +60,6 @@ cities =
  "Doumera",
  "Godoria",
  "Sagaliou",
- "Ras Siyyan"
-
+ "Ras Siyyan",
+ "Djiboutian",
+ "Dji City 31"
