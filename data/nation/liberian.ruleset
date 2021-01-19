@@ -4,14 +4,17 @@ name=_("Liberian")
 plural=_("?plural:Liberians")
 groups="African", "Modern"
 legend=_("Liberia is a country in West Africa, founded in the first half\
- of the 19th century as a country for liberated African-American slaves.\
+ of the 19th century in 1847 as a country for liberated African-American slaves.\
  Liberia's history has been characterized by tensions between the dominant\
  Americo-Liberian minority and the indigenous majority. The Americo-Liberians\
  organized themselves within the True Whig Party, which held power for no\
  less than 102 years, longer than any other political party worldwide. The\
  indigenous population was enfranchised in the 1960s and the True Whigs were\
  overthrown in 1980, which led to a period of instability and civil wars. A\
- fragile peace returned in 2003.")
+ fragile peace returned in 2003. Liberia is the poorest country in\
+ West Africa and the third country in the world.\
+ In addition, Liberia has an unemployment rate 85% of\
+ the population. Literacy - 73% men, 41% women (2003).")
 
 leaders = {
  "name",                   "sex"
@@ -20,14 +23,18 @@ leaders = {
  "Hilary R.W. Johnson",    "Male"
  "Charles D.B. King",      "Male"
  "William Tubman",         "Male"
- "Samuel K. Doe",          "Male"
- "Charles Taylor",         "Male"
- "Ellen Johnson Sirleaf",  "Female"
+ "William R. Tolbert",     "Male" ; 1971-80 
+ "Samuel K. Doe",          "Male" ; 1980-90
+ "Charles Taylor",         "Male" ; 1997—2003
+ "Ellen Johnson Sirleaf",  "Female" ; 2006-18
+ "George O. O. Weah",      "Male" ; from 2018, footballer
 }
 
 ruler_titles = {
  "government",      "male_title",         "female_title"
- "Democracy",       _("Speaker %s"),      _("?female:Speaker %s")
+ "Despotism",       _("Freeman %s"),      _("?female:Freewoman %s")
+ "Monarchy",        _("Blackking %s"),    _("?female:Blackqueen %s")
+ "Democracy",       _("Free Negro %s"),   _("?female:Free Negrossa %s")
  "Fundamentalism",  _("Reverend %s"),     _("?female:Reverend %s")
 }
 
@@ -39,11 +46,11 @@ init_techs=""
 init_buildings=""
 init_units=""
 
-civilwar_nations = "american", "sierra leonean"
+civilwar_nations = "Songhai",  "American",  "Malian", "Sierra Leone"
 
 cities =
- "Monrovia",
- "Buchanan",
+ "Monrovia",	; (1822, capital)
+ "Buchananus",
  "Bensonville",
  "Greenville",
  "Robertsport",
@@ -77,3 +84,16 @@ cities =
  "Tuzon",
  "Virginia",
  "Zorzor"
+ "Freenegroville",
+ "Kolahun",
+ "Kle",
+ "Suakoko",
+ "Debil",
+ "Poabli",
+ "Belefuanai",
+ "Zekera",
+ "Kpeaple",
+ "Palala",
+ "Zienzu",
+ "Liberty City"
+ 
