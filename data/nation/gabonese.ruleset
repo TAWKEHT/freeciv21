@@ -4,6 +4,7 @@ name=_("Gabonese")
 plural=_("?plural:Gabonese")
 groups="African", "Modern"
 legend=_("Gabon is a country on the Atlantic coast of Central Africa.\
+ The first inhabitants of the country were pygmies.\
  Gabon, then inhabited by Bantu peoples, became a French protectorate\
  in the 19th century. It has been an independent republic since\
  1960. It is considered one of the most developed countries of Sub-Saharan\
@@ -11,11 +12,12 @@ legend=_("Gabon is a country on the Atlantic coast of Central Africa.\
 
 leaders = {
  "name",                  "sex"
- "Léon M'ba",             "Male"
+ "Léon M'ba",             "Male" ; first president
  "Jean-Hilaire Aubame",   "Male"
- "Omar Bongo",            "Male"
+ "Omar Bongo",            "Male" ; second president 1967-2009
  "Rose Francine Rogombé", "Female"
- "Ali Bongo Ondimba",     "Male"
+ "Ali Bongo Ondimba",     "Male" ; todays president
+ "Jean Ping",       "Male" ; minister, oppositionist
 }
 
 flag="gabon"
@@ -26,10 +28,11 @@ init_techs=""
 init_buildings=""
 init_units=""
 
-civilwar_nations="brazzaville-congolese", "central african"
+civilwar_nations= "Kongo", "Cameroonian", "French", "pygmy"
 
+; Cities, ropoga:
 cities =
- "Libreville",
+ "Libreville",	; (1849, capital)
  "Franceville",
  "Port-Gentil (ocean)",
  "Oyem",
@@ -71,4 +74,5 @@ cities =
  "Pana",
  "Omboué",
  "Mitzic",
- "Akok"
+ "Akok",
+ "Pygmyville"
